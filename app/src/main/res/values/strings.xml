@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZendeskSupportTestApp</string>
+    <string name="open_chat">Open chat</string>
+    <string name="create_ticket">Create ticket</string>
+    <string name="show_all_tickets">Show all tickets</string>
+    <string name="error_message">Access error. \nCheck your credentials!</string>
+</resources>
