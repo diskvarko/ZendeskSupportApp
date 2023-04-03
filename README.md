@@ -15,5 +15,3 @@ NOTE: Credentials are required for the application to work correctly. You can cr
 
 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐞𝐝, 𝐚𝐧 𝐞𝐫𝐫𝐨𝐫 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐬𝐡𝐨𝐰𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐦𝐚𝐢𝐧 𝐬𝐜𝐫𝐞𝐞𝐧.
 
-![image](https://user-images.githubusercontent.com/65858995/229373206-679f576f-2944-431f-ba2e-57f696fae38a.png)
-![image](https://user-images.githubusercontent.com/65858995/229373210-8d296ff7-a0a2-42b8-b409-2de3a0bdaeb8.png)
